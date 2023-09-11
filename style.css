@@ -296,7 +296,7 @@ ul.dropdown-menu {
 }
 @media screen and (max-width: 576px){
     .featured-categories{
-        margin-top: 150px;
+        margin-top: 190px;
         margin-left: 22px !important;
     }
     .featured-categories img{
