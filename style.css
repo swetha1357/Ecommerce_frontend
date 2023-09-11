@@ -140,7 +140,7 @@ ul.dropdown-menu {
     margin: 10px ;
     display: none;
  }
- @media screen and (max-width: 767px)
+ @media screen and (max-width: 576px)
 {
     .top-nav-bar{
         height: 118px;
@@ -220,7 +220,7 @@ ul.dropdown-menu {
     margin-right: 8px;
     float: right;
 }
-@media screen and (max-width: 767px)
+@media screen and (max-width: 576px)
 {
     .side-menu{
         height: 400px;
@@ -266,7 +266,7 @@ ul.dropdown-menu {
     box-shadow: 1px 1px 4px 1px rgba(0,0,0,0.5);
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width: 576px){
     .slider{
         width:100% ;
         margin-left: 0 !important ;
@@ -294,7 +294,7 @@ ul.dropdown-menu {
 .featured-categories img:hover{
     transform: scale(1.1);
 }
-@media screen and (max-width: 767px){
+@media screen and (max-width: 576px){
     .featured-categories{
         margin-top: 340px;
         margin-left: 75px !important;
@@ -378,7 +378,7 @@ ul.dropdown-menu {
     margin-left: 200px;
     margin-right: 0 !important;
 }
-@media screen and (max-width: 767px){
+@media screen and (max-width: 576px){
     .on-sale {
         margin-left:75px;
     }
@@ -411,7 +411,7 @@ ul.dropdown-menu {
 .feature-box{
     padding-top: 20px;
 }
-@media screen and (max-width: 767px){
+@media screen and (max-width: 576px){
     .feature-box{
         height: 60px;
         padding: 7px !important;
@@ -466,7 +466,7 @@ ul.dropdown-menu {
     font-size: 15px;
 }
 
-@media screen and (max-width: 767px){
+@media screen and (max-width:576px){
     .footer {
         display: flex;
         flex-wrap: wrap;
@@ -581,7 +581,7 @@ ul.dropdown-menu {
 .product-description .on-sale .overlay-right{
      top: 140%;
 }
-@media screen and (max-width: 767px){
+@media screen and (max-width: 576px){
     .product-description .on-sale{
         margin-left:75px;
     }
