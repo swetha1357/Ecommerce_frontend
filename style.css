@@ -296,8 +296,8 @@ ul.dropdown-menu {
 }
 @media screen and (max-width: 576px){
     .featured-categories{
-        margin-top: 190px;
-        margin-left: 22px !important;
+        margin-top: 250px;
+        margin-left: 27px !important;
     }
     .featured-categories img{
         width: 330px !important;
@@ -383,7 +383,7 @@ ul.dropdown-menu {
 }
 @media screen and (max-width: 576px){
     .on-sale {
-        margin-left:0px !important;
+        margin-left:10px !important;
     }
     .product-bottom{
         margin-left: 2px;
